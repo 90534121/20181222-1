@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>播放清單</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Documents%20and%20Settings/djps/My%20Documents/Downloads/Always%20With%20Me%20-%20%E6%B0%B8%E9%81%A0%E5%90%8C%E5%9C%A8%E3%80%8A%E7%A5%9E%E9%9A%B1%E5%B0%91%E5%A5%B3%E3%80%8B-%20%E5%AE%AE%E5%B4%8E%E9%A7%BF%2C%E7%99%82%E7%99%92%E9%9F%B3%E6%A8%82%2C%E7%99%82%E7%99%92%2C%E8%88%92%E7%9C%A0%2C%E7%9C%8B%E6%9B%B8%2C%E9%81%A9%E5%90%88%E7%9D%A1%E7%9C%A0%2C%20Piano%20Music%2C%20Miyazaki%20Hayao%2C%20roses.mp3</location>
+			<duration>185679</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+	</extension>
+</playlist>

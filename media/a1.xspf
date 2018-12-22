@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>播放清單</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Documents%20and%20Settings/djps/My%20Documents/Downloads/%E3%80%90%E5%8D%83%E8%88%87%E5%8D%83%E5%B0%8B%E7%89%87%E5%B0%BE%E6%9B%B2%E3%80%91%E6%9C%A8%E6%9D%91%E5%BC%93%20-%20%E6%B0%B8%E9%81%A0%E5%90%8C%E5%9C%A8%20%28%E4%B8%AD%E6%97%A5%E6%AD%8C%E8%A9%9E%29.mp3</location>
+			<duration>226901</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+	</extension>
+</playlist>
